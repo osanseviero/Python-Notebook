@@ -1,5 +1,5 @@
 #Program 13. Importing
-#Run "python  ex13.py first second third", you are sending the variable
+#Run "python ex13.py first second third", you are sending the variable
 
 from sys import argv	#You import a module or library
 

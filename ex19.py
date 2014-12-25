@@ -1,10 +1,12 @@
 #Program 19. More complex functions
+
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "You have %d cheeses!" % cheese_count
 	print "You have %d boxes of crackers!" % boxes_of_crackers
 	print "That's enough"
 	print "Get a blanket.\n"
-	
+
+#Sending numbers to a function
 print "We can give the values:"
 cheese_and_crackers(20, 30)
 

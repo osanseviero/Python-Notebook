@@ -1,4 +1,6 @@
 #Program 15. Reading Files
+#Run it like "python ex15.py ex15_sample.txt"
+
 from sys import argv
 script, filename = argv
 

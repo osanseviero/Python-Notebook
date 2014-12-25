@@ -1,9 +1,11 @@
 #Program 10. Escape sequence and printing.
 
+#Check what does this things
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line"
 backslash_cat = "I'm \\ a \\ cat."
 
+#Multi-line string
 fat_cat = """
 I'll do a list:
 \t* Cat food

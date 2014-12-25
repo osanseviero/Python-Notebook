@@ -1,6 +1,8 @@
 #Program 16. Writing files
 from sys import argv
 
+#Run it with text16.txt
+
 script, filename = argv
 
 print "Hello\nWe are going to erase %r" % filename
@@ -26,7 +28,6 @@ target.write(line3 + "\n")
 
 print "And we close it"
 target.close()
-p
 print "And we will read it now"
 target = open(filename, 'r')	#The r is to tell we want to read it
 print target.read()

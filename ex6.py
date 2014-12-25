@@ -12,7 +12,7 @@ print "I said: %r." %x
 print "I also said: '%s'." %y
 
 #Using a variable as a string
-hilarious = False
+hilarious = False	#This is a boolean
 joke_evaluation = "Isn't that joke so funny?! %r"
 print joke_evaluation % hilarious
 

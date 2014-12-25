@@ -6,7 +6,7 @@ def print_two(*args):	#List of arguments
 	print "arg1: %r, arg2: %r" % (arg1, arg2)
 	
 #Second Function
-def print_two_again(arg1, arg2):
+def print_two_again(arg1, arg2):	#Two arguments
 	print "arg1: %r, arg2: %r" % (arg1, arg2)
 #Dedenting
 	

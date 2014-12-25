@@ -9,6 +9,7 @@ print "3 + 2 < 5 - 7 is", 3 + 2 < 5 - 7
 print 3>4
 print 3>=3
 
+#Integers and floating numbers. Can you see the difference?
 print "4/3 =", 	4/3
 print "4.0/3.0 = ", 4.0/3.0
 print "7/4 =", 	7/4
