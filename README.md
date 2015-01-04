@@ -3,7 +3,7 @@ Python-Notebook
 Notes of python programming step by step based on http://learnpythonthehardway.org/book/
 This exercises are not a complete tutorial on learning Python. This are just notes that may or may not help in the learning process.
 
-**Exercises: **
+**Exercises:**
 * Exercise 1: Structure of a program and printing
 * Exercise 2: More printing and comments
 * Exercise 3: Using math and introduction to different types (including booleans)
@@ -30,7 +30,17 @@ This exercises are not a complete tutorial on learning Python. This are just not
 * Exercise 25: Working with words and setences: spliting them and popping elements
 * Exercise 26: A quiz. Find the bugs!
 * Exercise 27: Using if statements
-* Exercise 28> Elif and else statements
+* Exercise 28: Elif and else statements
+* Exercise 29: Nesting if statements
+* Exercise 30: Introduction to lists and for loops.
+* Exercise 31: While loops and appending to lists
+* Exercise 32: Using index of lists
+* Exercise 33: A simple game. Using all we know + exit() + more booleans
+* Exercise 34: A longer game. Using all we know + time
+* Exercise 35: Massive review and experimenting with some new stuff. Booleans, assert, break, class (just an example), deleting from lists, exceptions, exec() function, global variables, and lambda functions.
+* Exercise 36: More on lists and their index
+* Exercise 37: Dictionaries
+
 
 
 **Sources:**
