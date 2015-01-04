@@ -4,33 +4,33 @@ Notes of python programming step by step based on http://learnpythonthehardway.o
 This exercises are not a complete tutorial on learning Python. This are just notes that may or may not help in the learning process.
 
 **Exercises: **
-*Exercise 1: Structure of a program and printing
-*Exercise 2: More printing and comments
-*Exercise 3: Using math and introduction to different types (including booleans)
-*Exercise 4: Introduction to variables
-*Exercise 5: Combining strings and variables
-*Exercise 6: Concatenation and using variables as strings
-*Exercise 7: More on strings and concatenation
-*Exercise 8: Variables made of variables and multi-line printing
-*Exercise 9: Multi-line printing
-*Exercise 10: Using escape sequences
-*Exercise 11: Introduction to user input
-*Exercise 12: More on input
-*Exercise 13: Importing an argument
-*Exercise 14: Importing several arguments
-*Exercise 15: Importing a file (and opening/reading it)
-*Exercise 16: Different ways of opening a file and writting on it
-*Exercise 17: Copying files and 'exists' command. Also some optimization.
-*Exercise 18: Introduction to functions
-*Exercise 19: More on functions
-*Exercise 20: Using functions to read files
-*Exercise 21: Returning from functions (and basic calculator). Sending a function to a function.
-*Exercise 22/23: Python style 
-*Exercise 24: Review
-*Exercise 25: Working with words and setences: spliting them and popping elements
-*Exercise 26: A quiz. Find the bugs!
-*Exercise 27: Using if statements
-*Exercise 28> Elif and else statements
+* Exercise 1: Structure of a program and printing
+* Exercise 2: More printing and comments
+* Exercise 3: Using math and introduction to different types (including booleans)
+* Exercise 4: Introduction to variables
+* Exercise 5: Combining strings and variables
+* Exercise 6: Concatenation and using variables as strings
+* Exercise 7: More on strings and concatenation
+* Exercise 8: Variables made of variables and multi-line printing
+* Exercise 9: Multi-line printing
+* Exercise 10: Using escape sequences
+* Exercise 11: Introduction to user input
+* Exercise 12: More on input
+* Exercise 13: Importing an argument
+* Exercise 14: Importing several arguments
+* Exercise 15: Importing a file (and opening/reading it)
+* Exercise 16: Different ways of opening a file and writting on it
+* Exercise 17: Copying files and 'exists' command. Also some optimization.
+* Exercise 18: Introduction to functions
+* Exercise 19: More on functions
+* Exercise 20: Using functions to read files
+* Exercise 21: Returning from functions (and basic calculator). Sending a function to a function.
+* Exercise 22/23: Python style 
+* Exercise 24: Review
+* Exercise 25: Working with words and setences: spliting them and popping elements
+* Exercise 26: A quiz. Find the bugs!
+* Exercise 27: Using if statements
+* Exercise 28> Elif and else statements
 
 
 **Sources:**
