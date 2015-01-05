@@ -39,6 +39,7 @@ This exercises are not a complete tutorial on learning Python. This are just not
 * Exercise 34: A longer game. Using all we know + time
 * Exercise 35: Massive review and experimenting with some new stuff. Booleans, assert, break, class (just an example), deleting from lists, exceptions, exec() function, global variables, and lambda functions.
 * Exercise 36: More on lists and their index
+* Do the Problem Set 1 now :)
 * Exercise 37: Dictionaries
 
 
